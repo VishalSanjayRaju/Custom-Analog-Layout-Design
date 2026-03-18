@@ -95,94 +95,142 @@ An XOR gate layout design. This design is done by equation Y=AbarB+ABbar.
 
 <img width="1038" height="388" alt="Layout full adder" src="https://github.com/user-attachments/assets/2ead2ccf-3bcd-4436-9c36-67af7a2fdf9a" />
 
+A full adder circuit layout design with sum and carry output.
+
 # Full Adder Array
 
 <img width="519" height="427" alt="Layout Full Adder Array" src="https://github.com/user-attachments/assets/48557312-0c13-4070-a955-0c3635f0b90e" />
+
+A full adder circuit layout design array
 
 # Full Subtractor
 
 <img width="1208" height="335" alt="Layout full subtractor" src="https://github.com/user-attachments/assets/0574b1c2-bcaa-4fce-b62f-484ededc7d54" />
 
+A full subtractor circuit layout design.
+
 # Inverter
 
 <img width="337" height="723" alt="Layout Schematic" src="https://github.com/user-attachments/assets/1947f98a-1dc4-410d-981a-46b41b231176" />
+
+A inverter layout design
 
 # Inverter 5 finger
 
 <img width="534" height="722" alt="Layout inverter 5 finger" src="https://github.com/user-attachments/assets/a27b0e84-6ab5-44c3-80c6-8777b00bf6d2" />
 
+An inverter layout design with transistor of 5 fingers.
+
 # n-bias Ckt
 
 <img width="878" height="431" alt="Layout n bias ckt" src="https://github.com/user-attachments/assets/43e1f675-81eb-4852-8f50-2be60e7531b1" />
+
+n bias circuit layout design 
 
 # n-bias 4 fingers 
 
 <img width="1201" height="391" alt="Layout" src="https://github.com/user-attachments/assets/695b0f64-eb1f-4c13-b7ff-c7b242d3bdd7" />
 
+n bias circuit layout with 4 fingers
+
 # Ones Complement
 
 <img width="171" height="703" alt="Layout ones complement" src="https://github.com/user-attachments/assets/f2d4a8d7-a158-48e7-99bb-2d95b860ec6d" />
+
+A 4 bit one's complement circuit layout design
 
 # p-bias Ckt
 
 <img width="1201" height="726" alt="Layout p bias ckt" src="https://github.com/user-attachments/assets/ab124965-e80e-4088-aae2-ad3de6f3be4e" />
 
+p bias circuit layout design 
+
 # p-bias Ckt 4 finger
 
 <img width="1194" height="412" alt="Layout p bias ckt 4 finger" src="https://github.com/user-attachments/assets/2978d2b8-92a1-4726-b78c-1c156911db10" />
+
+p bias circuit layout with 4 fingers
 
 # Multiplexer 8X1
 
 <img width="623" height="725" alt="Layout Mux 8X1 array" src="https://github.com/user-attachments/assets/2d9e57a4-e24f-48c4-804b-f2ae15db9b4a" />
 
+Multiplexer 8x1 circuit layout design.
+
 # OpAmp 2 stage
 
 <img width="556" height="743" alt="layout OpAmp 2 stage" src="https://github.com/user-attachments/assets/09a8fbc5-8f24-4037-a76a-e35e36e34526" />
+
+2 stage OpAmp layout design  
 
 # OpAmp 2 stage 2 finger 
 
 <img width="621" height="736" alt="Layout Opamp 2 stage 2 finger" src="https://github.com/user-attachments/assets/186d9845-0e7a-472e-94ab-c370420f53a0" />
 
+2 stage OpAmp layout design with 2 finger transistors 
+
 # OpAmp single stage
 
 <img width="403" height="733" alt="Layout opamp single stage" src="https://github.com/user-attachments/assets/3b6a3540-f0c6-4c92-9c4a-9feca155cfe1" />
+
+Single stage OpAmp circuit layout design. 
 
 # 6T SRAM Cell
 
 <img width="439" height="734" alt="Layout 6T SRAM" src="https://github.com/user-attachments/assets/8f8c878e-17d8-4fba-b509-ec59d71705f2" />
 
+6T SRAM cell layout design.
+
 # AND Gate
 
 <img width="429" height="711" alt="Layout AND gate" src="https://github.com/user-attachments/assets/808f0963-ca72-402e-ac6f-7e5e6871b0a4" />
+
+AND gate circuit layout design 
 
 # D Flip Flop
 
 <img width="1197" height="625" alt="Layout D flip flop" src="https://github.com/user-attachments/assets/e94eb13b-a8c4-424d-8aab-46a4f76653a2" />
 
+D flip flop circuit layout design
+
 # DeMux 1X4
 
 <img width="1130" height="709" alt="Layout Demux 1x4" src="https://github.com/user-attachments/assets/ec0c0cb1-e061-47ad-834e-64ef7e488a0e" />
+
+Demultiplexer 1x4 circuit layout design.
 
 # DeMux 1X32
 
 <img width="1214" height="248" alt="Layout Demux 1x32" src="https://github.com/user-attachments/assets/4ed97973-4860-40c4-a060-6af5f52389d8" />
 
+Demultiplexer 1x32 circuit layout design.
+
 # DeMux 1X8
 
 <img width="1221" height="443" alt="Layout demultiplexer 1x8" src="https://github.com/user-attachments/assets/99b853fa-64f6-4f22-880e-b9a86d05f2cf" />
+
+Demultiplexer 1x8 circuit layout design.
 
 # Freq Divider 
 
 <img width="1234" height="208" alt="Layout Freq Divier" src="https://github.com/user-attachments/assets/89676775-0883-49a9-87b2-793ba81190cb" />
 
+frequency divider circuit layout design.
+
 # Level Down Shifter
 
 <img width="392" height="718" alt="Layout Level Down Shifter" src="https://github.com/user-attachments/assets/862fddd9-878b-4f2f-9f8f-cd56b27a2e04" />
+
+Level down shifter circuit layout design
 
 # Mux 2X1
 
 <img width="598" height="718" alt="Layout Multiplexer 2X1" src="https://github.com/user-attachments/assets/9e79518a-fb54-4305-9aed-f4eedfe67e5c" />
 
+Multiplexer 2X1 circuit layout design
+
 # Mux 8X1
 
 <img width="1214" height="274" alt="Layout Mux 8X1" src="https://github.com/user-attachments/assets/cd047105-3ce4-4b86-9a25-aec40a859b71" />
+
+Multiplexer 2X1 circuit layout design
